@@ -1,6 +1,7 @@
-#Overview of Election Audit: Explain the purpose of this election audit analysis.
+# Overview of Election Audit:
+This script is used to pull data from the election results in election_results.csv and show who won the election overall, and which counties voted the most.
 
-##Election-Audit Results:
+## Election-Audit Results:
 ***
 * According to the data, there were 369,711 total votes
 
@@ -21,7 +22,7 @@
 
 * Final results of the race has Diana DeGette as the winner with 272,892 votes which makes up 73.8% of the votes.
 
-##Election-Audit Summary: 
+## Election-Audit Summary: 
 I believe this script can be used for any election, as the scripts are flexible enough to use with any data set.
 * These empty data sets can be filled with  anything we need, which we prove further down with our script to extract data from the csv as needed
 
