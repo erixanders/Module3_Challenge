@@ -24,6 +24,9 @@
 ##Election-Audit Summary: 
 I believe this script can be used for any election, as the scripts are flexible enough to use with any data set.
 * These empty data sets can be filled with  anything we need, which we prove further down with our script to extract data from the csv as needed
-image.png
 
-image.png
+![image](https://user-images.githubusercontent.com/3924733/203174445-27c0ba3f-0403-43b6-87d8-270dfd4bacce.png)
+
+![image](https://user-images.githubusercontent.com/3924733/203174462-1e5c6312-b396-489e-a90c-c57f444fbcd9.png)
+
+
